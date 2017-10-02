@@ -1,6 +1,7 @@
 # exercise-repo
 
-Hello Git Bash
+Hello Git Bash 
+I am Pavel
 
 
 
